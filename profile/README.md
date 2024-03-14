@@ -1,3 +1,3 @@
 # Rocky Linux LTS by CIQ
 
-For more informatin please visit: https://ciq.com/products/rocky-linux/
+For more information please visit: https://ciq.com/products/rocky-linux/
