@@ -21,7 +21,6 @@ Our LTS program prioritizes security:
 - **Critical and Important Updates**: Packages marked as Important or Critical for security from upstream may be eligible for backports, generally focusing on those with a CVSS score of 8.0 or higher.
   
 - **Discretionary Backports**: Packages with a CVSS score lower than 8.0 may receive backports at CIQ's discretion, including necessary bug fixes not related to security.
-- 
 
 ## Using These Repositories
 
